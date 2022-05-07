@@ -2,7 +2,7 @@
 Alamofire API calling by RxSwift in SwiftUI
 
 ## Example
-![alt text](https://github.com/Rahul-Mayani/RRSwiftUIAPICalling/blob/master/sample.gif)
+<img src="https://github.com/Rahul-Mayani/RRSwiftUIAPICalling/blob/master/sample.gif" width="400">
 
 ## Requirements
 
